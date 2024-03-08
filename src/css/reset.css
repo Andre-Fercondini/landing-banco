@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+/* (Para tirar os azuis de link e para remover as bolinhas) */
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
